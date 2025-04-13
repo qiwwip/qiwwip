@@ -1,7 +1,6 @@
-- 👋 Yo, I’m Albert Nesty Nartia currently i am 3rd year college student taking Bachelor of Science in Computer Science degree 
-- 👀 I’m interested in Algorithm and Logic
-- 🌱 I’m currently learning node.js and mongodb
-
+- 👋 Yo, I’m Albert Nesty Nartia currently i am 2nd year college student taking Bachelor of Science in Computer Science degree 
+- 👀 I’m interested in Fullstack project
+- 🌱 I’m currently learning MERN Stack
 
 <!---
 qiwwip/qiwwip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
